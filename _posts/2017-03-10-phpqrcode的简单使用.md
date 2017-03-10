@@ -13,7 +13,7 @@ tags:
 
 [phpqrcode官网](http://phpqrcode.sourceforge.net/)
 
-* 向浏览器输出二维码
+## 向浏览器输出二维码
 
 ```
 <?php
@@ -32,7 +32,7 @@ QRcode::png(
 ```
 
 
-* 保存二维码到本地文件夹
+## 保存二维码到本地文件夹
  存放在temp文件夹下面，并且命名为qq.png
 
 ```
@@ -57,7 +57,7 @@ QRcode::png(
 ```
 
 
-* 提供二维码的下载
+## 提供二维码的下载
 
 以下方法使用了chrome浏览器
 
