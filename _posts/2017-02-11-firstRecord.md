@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      生成一个安全的随机数
+title:      PHP生成一个安全的随机字符串
 date:       2017-02-17
 author:     HDB
 header-img: img/post-bg-re-vs-ng2.jpg
@@ -11,11 +11,11 @@ tags:
 
 
 
-## 生成一个安全的随机数
+## 生成一个安全的字符串
 
-* php 通过读取linux 下的/dev/urandom 设备获取安全的随机数
+* php 通过读取linux 下的/dev/urandom 设备获取安全的随机字符串
 
-* 微信小程序推荐使用16B的随机数 也就是128位
+* 微信小程序推荐使用16B的随机字符串 也就是128位
 
 ~~~
    //获取安全的随机字符串

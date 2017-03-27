@@ -59,7 +59,7 @@ QRcode::png(
 
 ## 提供二维码的下载
 
-以下方法使用了chrome浏览器
+以下方法适用于chrome浏览器
 
 ```
 <?php
