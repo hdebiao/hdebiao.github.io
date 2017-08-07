@@ -1,9 +1,9 @@
 # Site settings
 title: 明天，你好。
-SEOTitle: 默默无闻的PHPer
+SEOTitle: hello world
 header-img: img/post-bg-rwd.jpg
 #email: qiubaiying@gmail.com
-description: "沉默是金"
+description: "my show time"
 keyword: "my-blog"
 url: "https://hdebiao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -99,5 +99,9 @@ friends: [
     {
         title: "简书·HDB",
         href: "http://www.jianshu.com/u/68e625a413f5"
+    },
+    {
+        title :"csummer",
+        href :"http://www.csummer.top"
     }
 ]
